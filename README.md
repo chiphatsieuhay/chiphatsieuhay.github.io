@@ -8,6 +8,6 @@
 
 [https://github.com/ngasocute/ngasocute.github.io](https://github.com/ngasocute/ngasocute.github.io)
 ## Khang's Project
-[...](...)
+[https://github.com/KhangHiHi12062000/chiphatsieuhay.github.io](https://github.com/KhangHiHi12062000/chiphatsieuhay.github.io)
 ## Tung's Project
 [https://github.com/sptungG/chiphatsieuhay-tung.github.io](https://github.com/sptungG/chiphatsieuhay-tung.github.io)
